@@ -1,46 +1,21 @@
-# 🎮 WillerDev Studio
+# 🪙 pyWalletLite
 
-Welcome to **WillerDev Studio**—run by Willem, a 13-year-old Python developer passionate about building helpful tools, fun games, and powerful automation scripts. Whether you're a creator, business owner, or just need something cool built, you're in the right place.
-
----
-
-## 🚀 What I Offer
-- **Custom Python Bots** – for Discord, Telegram, YouTube & more
-- **Mini Games** – fun, simple, and playable tools
-- **Automation Scripts** – save time with smart solutions
-- **Learning Projects** – MicroPython, Raspberry Pi, and more
-
-All projects are fully personalized and beginner-budget friendly.
+**pyWalletLite** is a minimalist budget and financial calculator app designed to help you manage your money with ease. Perfect for personal finance tracking, quick budgeting, and exploring spending patterns.
 
 ---
 
-## 💰 Rates & Deals
-- **Starter Rate**: £3/hour
-- Special project bundles available on request!
-- First-time clients: ask about a FREE mini tool 🛠️
+## ✨ Features
 
-*All work is tracked and fair-priced—just drop me a message!*
-
----
-
-## 📬 Contact Me
-- **Reddit**: [u/Serious-Job-2502](https://www.reddit.com/user/Serious-Job-2502/)
-- **GitHub**: [github.com/willer481](https://github.com/willer481)
-- **Discord**: Coming Soon 👀
-- **Email**: Available on request
+- 🔐 Secure PIN system for accessing your wallet
+- 📊 Simple income vs. expense tracking
+- 💾 Saves and loads data using JSON
+- 🧮 Lightweight and easy to run — no dependencies
 
 ---
 
-## 🌟 Projects Worth Checking Out
-- 💡 [MicroPython LED Blinker](https://github.com/willer481/raspberrypi-pico-led-blink)
-- 🧮 [Quiz Game](https://github.com/willer481/python-quiz)
-- 🧾 [Coin Counter](https://github.com/willer481/python-coin-counter)
+## 🚀 Getting Started
 
-More cool stuff coming every week—stay tuned!
+### 1. Clone the Repository
 
----
-
-## 🧠 About Me
-Hi! I’m Willem, coding out of Huddersfield, UK. I love making tools that solve problems, entertain, or automate boring stuff. I started young (still am!), and every project helps me grow—and hopefully helps someone else too.
-
-Thanks for checking out WillerDev Studio! 💻✨
+```bash
+git clone https://github.com/willer481/pyWalletLite.git
